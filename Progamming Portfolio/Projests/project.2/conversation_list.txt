@@ -1,0 +1,210 @@
+
+--- New Conversation Session Started at 2024-12-30 23:50:18 ---
+Prasanna: i want to know about exam
+Agent: The exam schedule and policies are available on the university's academic website. Be sure to check for any updates.
+Prasanna: i want to know about the events that are about to come
+Agent: Check the university calendar for upcoming events, seminars, and workshops happening on campus.
+Prasanna: yeahh sure i will
+Agent: Let's dive deeper into that topic!
+
+--- New Conversation Session Started at 2024-12-30 23:51:05 ---
+prasun: what are you doing
+Agent: Tell me more about how you feel about this.
+prasun: i am very busy
+Agent: Wow, that sounds really interesting!
+prasun: i am hungry, where can i find some food
+Agent: The campus dining hall serves breakfast from 7 AM to 9 AM, lunch from 11 AM to 2 PM, and dinner from 5 PM to 8 PM.
+
+--- New Conversation Session Started at 2024-12-30 23:59:11 ---
+bhb: gvugvg\
+Agent: Wow, that sounds really interesting!
+bhb: iygub\
+Agent: Hmm, I'm not sure about that, but I'll look into it.
+bhb: gyugb
+Agent: Wow, that sounds really interesting!
+bhb: vhbh
+Agent: That's a good question. Let me think about it for a moment.
+bhb: hbub
+Agent: Could you explain a bit more?
+bhb: vbugvbh\
+Agent: You always have such intriguing questions!
+bhb: uubyb]\
+Agent: That's fascinating! I'd love to hear more about it.
+bhb: bubhjbgb
+Agent: Wow, that sounds really interesting!
+bhb: ugbvgvv
+Agent: That's a good question. Let me think about it for a moment.
+bhb: ugvgvv
+Agent: Could you explain a bit more?
+bhb: uvufyuvbh\\\
+Agent: What made you think of that?
+bhb: gugtvbhbhb
+Agent: Could you explain a bit more?
+bhb: vgcybv\
+Agent: Tell me more about how you feel about this.
+bhb: uvgvh
+Agent: Let's dive deeper into that topic!
+
+--- New Conversation Session Started at 2024-12-31 12:03:09 ---
+Prasanna: help me with my math 
+Agent: Tell me more about how you feel about this.
+Prasanna: i have exam 
+Agent: The exam schedule and policies are available on the university's academic website. Be sure to check for any updates.
+Prasanna: oi
+Agent: I didn't know that! Thanks for sharing.
+Prasanna: housing bye
+Agent: The housing office is open from 10 AM to 4 PM. You can contact them for information on dormitory availability and rental options.
+
+--- New Conversation Session Started at 2024-12-31 12:08:19 ---
+rothi: helo
+Agent: Let's dive deeper into that topic!
+rothi: oi
+Agent: That's a good question. Let me think about it for a moment.
+rothi: coffee
+Agent: I didn't know that! Thanks for sharing.
+rothi: ufhfb
+Agent: Wow, that sounds really interesting!
+rothi: fkn
+Agent: Could you explain a bit more?
+rothi: dnnc
+Agent: What made you think of that?
+
+--- New Conversation Session Started at 2025-01-01 12:46:51 ---
+ppp: ndjkcn
+Agent: What made you think of that?
+
+--- New Conversation Session Started at 2025-01-04 22:03:37 ---
+Prasanna: coffee
+Agent: Could you explain a bit more?
+Prasanna: nope
+Agent: What made you think of that?
+Prasanna: sports
+Agent: The sports complex is open from 6 AM to 10 PM. You can join various sports teams and fitness classes.
+Prasanna: byee
+Agent: Let's dive deeper into that topic!
+
+--- New Conversation Session Started at 2025-01-04 22:09:28 ---
+
+--- New Conversation Session Started at 2025-01-04 22:10:58 ---
+satya: whats up
+Agent: Could you explain a bit more?
+satya: nope
+Agent: I didn't know that! Thanks for sharing.
+satya: ttyl
+Agent: That's fascinating! I'd love to hear more about it.
+satya: ttyl
+Agent: I didn't know that! Thanks for sharing.
+
+--- New Conversation Session Started at 2025-01-04 22:14:34 ---
+
+--- New Conversation Session Started at 2025-01-05 20:42:51 ---
+Prasanna: coffee
+Agent: Tell me more about how you feel about this, {name}.
+
+--- New Conversation Session Started at 2025-01-05 20:44:25 ---
+blaa: blaa
+Agent: Tell me more about how you feel about this, {name_of_user}.
+blaa: blaaaa
+Agent: Wow, {name_of_user}, that sounds really interesting!
+blaa: bll
+Agent: What made you think of that, {name_of_user}?
+
+--- New Conversation Session Started at 2025-01-05 20:57:23 ---
+Prasanna: bla
+Agent: Let's dive deeper into that topic, {name}!
+
+--- New Conversation Session Started at 2025-01-06 11:16:53 ---
+bbb: yuppp
+Agent: Tell me more about how you feel about this, {name}.
+
+--- New Conversation Session Started at 2025-01-14 12:21:48 ---
+Prasanna Karn: blaa
+Agent: Wow, {name}, that sounds really interesting!
+
+--- New Conversation Session Started at 2025-01-14 12:48:26 ---
+Prasanna: blaa blaaa
+Agent: What made you think of that, {name}? Prasanna
+Prasanna: library
+Agent: I didn't know that, {name}! Thanks for sharing.
+Prasanna: library coffee
+Agent: You always have such intriguing questions, {name}!
+Prasanna: housing
+Agent: The housing office is open from 10 AM to 4 PM, {name}. You can contact them for information on dormitory availability and rental options.
+Prasanna: housing tution
+Agent: The housing office is open from 10 AM to 4 PM, {name}. You can contact them for information on dormitory availability and rental options.
+
+--- New Conversation Session Started at 2025-01-14 12:50:58 ---
+Prasanna Karn: housing tuition
+Agent: The housing office is open from 10 AM to 4 PM, {name}. You can contact them for information on dormitory availability and rental options. ,Tuition fees are listed on the university's website, {name}. You can also find information on payment plans and due dates.
+Prasanna Karn: food sports events transport
+Agent: Check the university calendar for upcoming events, seminars, and workshops happening on campus, {name}. ,The sports complex is open from 6 AM to 10 PM, {name}. You can join various sports teams and fitness classes. ,The campus dining hall serves breakfast from 7 AM to 9 AM, lunch from 11 AM to 2 PM, and dinner from 5 PM to 8 PM, {name}. ,The campus shuttle service runs from 7 AM to 10 PM, {name}, providing transportation to various campus locations and nearby areas.
+Prasanna Karn: ttul
+Agent: Could you explain a bit more, {name}?
+
+--- New Conversation Session Started at 2025-01-14 12:52:42 ---
+Prasanna: housing tuition ttyl
+Agent: The housing office is open from 10 AM to 4 PM, {name}. You can contact them for information on dormitory availability and rental options. ,Tuition fees are listed on the university's website, {name}. You can also find information on payment plans and due dates.
+Prasanna: okay i am leaving bye.
+Agent: Could you explain a bit more, {name}?
+
+--- New Conversation Session Started at 2025-01-15 22:02:10 ---
+prasanna: library is where ? 
+Agent: Hmm, I'm not sure about that, but I'll look into it.
+prasanna: what about some food?
+Agent: The campus dining hall serves breakfast from 7 AM to 9 AM, lunch from 11 AM to 2 PM, and dinner from 5 PM to 8 PM  prasanna
+prasanna: okioeee, sports events are where ?
+Agent: Check the university calendar for upcoming events, seminars, and workshops happening on campus. ,The sports complex is open from 6 AM to 10 PM, You can join various sports teams and fitness classes. prasanna
+prasanna: blkaaaa
+Agent: What made you think of that ? prasanna
+prasanna: idk
+Agent: You always have such intriguing questions ! prasanna
+prasanna: yupp sure 
+Agent: That's fascinating! I'd love to hear more about it. prasanna
+prasanna: yahh ahahahah
+Agent: Let's dive deeper into that topic !
+prasanna: housing is great too
+Agent: The housing office is open from 10 AM to 4 PM, You can contact them for information on dormitory availability and rental options.
+prasanna: clubs are fun right
+Agent: There are many student clubs and organizations on campus, You can join them by visiting the student activities office.
+prasanna: exams are soo frustating
+Agent: The exam schedule and policies are available on the university's academic website, Be sure to check for any updates. prasanna
+prasanna: internships are perfect
+Agent: The career services office provides information on internships and job opportunities, You can visit them for guidance on applications.
+prasanna: okieee byeee
+Agent: Could you explain a bit more ? prasanna
+
+--- New Conversation Session Started at 2025-01-15 22:19:17 ---
+
+--- New Conversation Session Started at 2025-01-15 22:19:45 ---
+
+--- New Conversation Session Started at 2025-01-15 23:34:43 ---
+prasanna: i m looking for sports events
+Agent: Check the university calendar for upcoming events, seminars, and workshops happening on campus. ,The sports complex is open from 6 AM to 10 PM, You can join various sports teams and fitness classes. prasanna
+prasanna: blaaa
+Agent: Tell me more about how you feel about this.
+prasanna: yup
+Agent: Tell me more about how you feel about this.
+prasanna: nope
+Agent: That's fascinating! I'd love to hear more about it.
+prasanna: bue
+Agent: What made you think of that ?
+
+--- New Conversation Session Started at 2025-01-16 19:38:16 ---
+prasanna: water
+Agent: Could you explain a bit more ?
+prasanna: nope
+Agent: I didn't know that! Thanks for sharing. prasanna
+prasanna: housing 
+Agent: The housing office is open from 10 AM to 4 PM, You can contact them for information on dormitory availability and rental options.
+prasanna: tution
+Agent: Tuition fees are listed on the university's website, You can also find information on payment plans and due dates. prasanna
+prasanna: blaa
+Agent: Could you explain a bit more ?
+prasanna: blaaa
+Agent: I didn't know that! Thanks for sharing. prasanna
+
+--- New Conversation Session Started at 2025-01-16 20:28:06 ---
+prasanna: vkaa
+Agent: I didn't know that! Thanks for sharing. prasanna
+prasanna: housing
+Agent: The housing office is open from 10 AM to 4 PM, You can contact them for information on dormitory availability and rental options.

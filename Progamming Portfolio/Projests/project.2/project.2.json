@@ -1,0 +1,32 @@
+{
+    "agent_names": ["Prasun", "Subhash", "Priyanshu", "Sweshna", "Saswot"],
+    "random_responses": [
+        "That's fascinating! I'd love to hear more about it.",
+        "Wow, that sounds really interesting!",
+        "Hmm, I'm not sure about that, but I'll look into it.",
+        "Could you explain a bit more ?",
+        "That's a good question. Let me think about it for a moment.",
+        "I didn't know that! Thanks for sharing.",
+        "What made you think of that ?",
+        "Tell me more about how you feel about this.",
+        "Let's dive deeper into that topic !",
+        "You always have such intriguing questions !"
+    ],
+    "goodbye_responses": ["bye", "quit", "exit", "byee", "talk to you later", "ttyl"],
+    "keyword_responses": {
+        "housing": "The housing office is open from 10 AM to 4 PM, You can contact them for information on dormitory availability and rental options.",
+        "scholarship": "Information about scholarships and financial aid can be found on the university's financial aid page, Application deadlines are also listed there.",
+        "tution": "Tuition fees are listed on the university's website, You can also find information on payment plans and due dates.",
+        "events": "Check the university calendar for upcoming events, seminars, and workshops happening on campus.",
+        "sports": "The sports complex is open from 6 AM to 10 PM, You can join various sports teams and fitness classes.",
+        "food": "The campus dining hall serves breakfast from 7 AM to 9 AM, lunch from 11 AM to 2 PM, and dinner from 5 PM to 8 PM ",
+        "transport": "The campus shuttle service runs from 7 AM to 10 PM, providing transportation to various campus locations and nearby areas.",
+        "courses": "You can find information about course offerings and syllabi on the university's academic website, ",
+        "faculty": "The faculty directory is available on the university's website, where you can find contact information for professors and staff.",
+        "support": "For academic and personal support, you can visit the student support center, open from 9 AM to 5 PM on weekdays.",
+        "clubs": "There are many student clubs and organizations on campus, You can join them by visiting the student activities office.",
+        "registration": "Course registration periods and procedures are detailed on the university's registration portal. Make sure to check the deadlines.",
+        "internships": "The career services office provides information on internships and job opportunities, You can visit them for guidance on applications.",
+        "exam": "The exam schedule and policies are available on the university's academic website, Be sure to check for any updates."
+    }
+}
